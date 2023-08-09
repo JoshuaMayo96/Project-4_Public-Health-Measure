@@ -56,6 +56,13 @@
       <p>The visualizations link are contained in the presentation.</p>
       <p>Python, Tableau and Excel were used to complete the project and the Python library used can be found in the presentation. </p>
       <p> </p>
+      <h3>Links</h3>
+      <p>https://public.tableau.com/app/profile/spencer.duke/viz/Project4Map_16911688241540/Dashboard1</p>
+      <p> </p>
+      <p>https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation</p>
+      <p> </p>
+      <p>https://public.tableau.com/views/Project4_16914646659640/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link</p>
+      <p> </p>
    <h2> <strong>Group members:</strong></h2>
       <ul>
         <li>David Calero</li>
